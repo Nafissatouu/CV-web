@@ -1,0 +1,19 @@
+div#titre {background-color: lightblue;
+text-align: center;}
+h2 {background-color: lightblue;
+padding: 20px}
+div {
+	background-color: white;
+	width: 700px;
+border-right: 3px solid lightblue;
+border-left: 3px solid lightblue;
+border-bottom: 3px solid lightblue;
+margin: auto;
+}
+table,tr,td {
+	border-collapse: separate;
+	padding: 10px;
+}
+.col {color: deepskyblue;}
+#top {vertical-align: text-top;}
+a {color: deepskyblue;}
